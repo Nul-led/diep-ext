@@ -8,7 +8,7 @@
 - `q`: toggle multitrap
 - `x`: toggle guntrap
 
-### Compatability
+### Compatibility
 - Chrome & Similar Chromium based browsers: `supported`
 - Tampermonkey & similar Userscript Extensions: `supported`
 - Diep-Style & other Canvas editing Scripts: `supported`
